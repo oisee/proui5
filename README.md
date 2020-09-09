@@ -2,8 +2,9 @@
 
 Первый русскоязычный подкаст о UI5 и фронтенд-разработке в мире SAP.
 
-<img src="logo.png" width="200" height="200" alt="Project Logo">
-
+<p align="left">
+  <img src="logo.png" width="200" height="200" alt="Project Logo">
+</p>
 ## Авторы
 
  - Илья Виноградов
