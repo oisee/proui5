@@ -15,14 +15,14 @@
 
 - [Telegram](https://t.me/ui5_js)
 - [Castbox](http://bit.ly/proui5-castbox)
-- [Apple](скоро будет)
-- [Yandex](скоро будет)
-- [Google](скоро будет)
-- [RSS](скоро будет)
+- [Apple](скоро)
+- [Yandex](скоро)
+- [Google](скоро)
+- [RSS](скоро)
 
 ## Эпизоды
 
-1. [Как начать разрабатывать на UI5, сетап, тулинг и Fiori Elements](http://bit.ly/proui5-castbox)
+1. [Скоро](http://bit.ly/proui5-castbox)
 
 ## Обратная связь
 
