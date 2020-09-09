@@ -15,14 +15,14 @@
 
 - [Telegram](https://t.me/ui5_js)
 - [Castbox](http://bit.ly/proui5-castbox)
-- [Apple](скоро)
-- [Yandex](скоро)
-- [Google](скоро)
-- [RSS](скоро)
+- [Apple]
+- [Yandex]
+- [Google]
+- [RSS]
 
 ## Эпизоды
 
-1. [Скоро](http://bit.ly/proui5-castbox)
+1. [Скоро здесь будет ссылка на первый выпуск](http://bit.ly/proui5-castbox)
 
 ## Обратная связь
 
