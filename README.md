@@ -2,7 +2,7 @@
 
 Первый русскоязычный подкаст о UI5 и фронтенд-разработке в мире SAP.
 
-![Project Logo](/logo.png)
+![Project Logo](/logo.png | width=200)
 
 ## Авторы
 
