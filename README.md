@@ -22,7 +22,7 @@
 
 ## Эпизоды
 
-1. [Архитекторы, SAP DX, собеседования и исключения](https://castbox.fm/episode/Z-namespace-1-id2658981-id235788244)
+1. [Как начать разрабатывать на UI5, сетап, тулинг и Fiori Elements](http://bit.ly/proui5-castbox)
 
 ## Обратная связь
 
