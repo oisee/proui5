@@ -26,7 +26,7 @@
 
 ## Эпизоды
 
-1. [UI5: как начать, FioriElements: плюсы минусы подводные камни](https://castbox.fm/episode/id3284055-id306467608)
+1. [UI5: как начать, FioriElements: плюсы, минусы, подводные камни](https://castbox.fm/episode/id3284055-id306467608)
 
 ## Обратная связь
 
