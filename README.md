@@ -30,6 +30,10 @@
 
 Вопросы, ответы, комментарии, а также темы и пишите в [наш чат в Telegram](https://t.me/proui5).
 
+## Друзья
+
+[Подкаст z-namespace](https://ilyakaznacheev.github.io/z-namespace/)
+
 ## Лицензия
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
