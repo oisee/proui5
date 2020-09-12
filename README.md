@@ -18,8 +18,9 @@
 - [Telegram](https://t.me/ui5_js)
 - [Castbox](https://bit.ly/proui5-castbox)
 - [Apple]
-- [Yandex]
 - [Google]
+- [Yandex]
+- [PodFM](https://podfm.ru/podcasts/proui5/)
 - [Spotify](https://open.spotify.com/show/0MJMK5BLmCjNSAcnPy4GMS)
 - [RSS](https://bit.ly/proui5-rss)
 
