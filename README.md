@@ -20,6 +20,7 @@
 - [Apple]
 - [Yandex]
 - [Google]
+- [Spotify](https://open.spotify.com/show/0MJMK5BLmCjNSAcnPy4GMS)
 - [RSS](https://bit.ly/proui5-rss)
 
 ## Эпизоды
