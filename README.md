@@ -20,7 +20,7 @@
 - [Apple]
 - [Yandex]
 - [Google]
-- [RSS]
+- [RSS](bit.ly/proui5-rss)
 
 ## Эпизоды
 
