@@ -16,11 +16,11 @@
 ## Подкаст доступен на следующих площадках:
 
 - [Telegram](https://t.me/ui5_js)
-- [Castbox](http://bit.ly/proui5-castbox)
+- [Castbox](https://bit.ly/proui5-castbox)
 - [Apple]
 - [Yandex]
 - [Google]
-- [RSS](bit.ly/proui5-rss)
+- [RSS](https://bit.ly/proui5-rss)
 
 ## Эпизоды
 
