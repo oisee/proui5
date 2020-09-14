@@ -15,6 +15,7 @@
 
 ## Подкаст доступен на следующих площадках:
 
+- [Telegram](https://t.me/proui5_chan)
 - [Castbox](https://castbox.fm/channel/id3284055)
 - [Apple]
 - [Google]
