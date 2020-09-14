@@ -15,14 +15,13 @@
 
 ## Подкаст доступен на следующих площадках:
 
-- [Telegram](https://t.me/ui5_js)
-- [Castbox](https://bit.ly/proui5-castbox)
+- [Castbox](https://castbox.fm/channel/id3284055)
 - [Apple]
 - [Google]
 - [Yandex]
 - [PodFM](https://podfm.ru/podcasts/proui5/)
 - [Spotify](https://open.spotify.com/show/0MJMK5BLmCjNSAcnPy4GMS)
-- [RSS](https://bit.ly/proui5-rss)
+- [RSS](http://rss.castbox.fm/everest/1bcc29f7ca90428c876e3d75500184c1.xml)
 
 ## Эпизоды
 
@@ -30,7 +29,8 @@
 
 ## Обратная связь
 
-Вопросы, ответы, комментарии, а также темы и пишите в [наш чат в Telegram](https://t.me/proui5).
+- [Группа UI5](https://t.me/ui5_js)
+Вопросы, ответы, комментарии, а также темы и пишите в [чат подкаста в Telegram](https://t.me/proui5).
 
 ## Друзья
 
