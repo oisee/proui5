@@ -21,7 +21,7 @@
 - [Google]
 - [Yandex]
 - [PodFM](https://podfm.ru/podcasts/proui5/)
-- [~~Spotify~~](https://open.spotify.com/show/0MJMK5BLmCjNSAcnPy4GMS) - Spotify не поддерживает подкасты в некоторых странах.
+- [~~Spotify~~](https://open.spotify.com/show/0MJMK5BLmCjNSAcnPy4GMS) - Подкасты Spotify недоступны в некоторых странах.
 - [RSS](http://rss.castbox.fm/everest/1bcc29f7ca90428c876e3d75500184c1.xml)
 
 ## Эпизоды
