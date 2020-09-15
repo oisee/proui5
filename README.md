@@ -17,7 +17,7 @@
 
 - [Telegram](https://t.me/proui5_chan)
 - [Castbox](https://castbox.fm/channel/id3284055)
-- [Apple]
+- [Apple](https://podcasts.apple.com/ru/podcast/%D0%BF%D1%80%D0%BEui5/id1531586151)
 - [Google]
 - [Yandex]
 - [PodFM](https://podfm.ru/podcasts/proui5/)
