@@ -19,7 +19,7 @@
 - [Castbox](https://castbox.fm/channel/id3284055)
 - [Apple](https://podcasts.apple.com/ru/podcast/%D0%BF%D1%80%D0%BEui5/id1531586151)
 - [Google]
-- [Yandex]
+- [Yandex](https://music.yandex.ru/album/12115451)
 - [PodFM](https://podfm.ru/podcasts/proui5/)
 - [~~Spotify~~](https://open.spotify.com/show/0MJMK5BLmCjNSAcnPy4GMS) - Подкасты Spotify недоступны в некоторых странах.
 - [RSS](http://rss.castbox.fm/everest/1bcc29f7ca90428c876e3d75500184c1.xml)
