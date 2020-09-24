@@ -18,7 +18,7 @@
 - [Telegram](https://t.me/proui5_chan)
 - [Castbox](https://castbox.fm/channel/id3284055)
 - [Apple](https://podcasts.apple.com/ru/podcast/%D0%BF%D1%80%D0%BEui5/id1531586151)
-- [Google]
+- [Google](https://podcasts.google.com/feed/aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvMWJjYzI5ZjdjYTkwNDI4Yzg3NmUzZDc1NTAwMTg0YzEueG1s)
 - [Yandex](https://music.yandex.ru/album/12115451)
 - [PodFM](https://podfm.ru/podcasts/proui5/)
 - [~~Spotify~~](https://open.spotify.com/show/0MJMK5BLmCjNSAcnPy4GMS) - Подкасты Spotify недоступны в некоторых странах.
