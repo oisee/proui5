@@ -33,7 +33,7 @@
 
 - [Группа UI5](https://t.me/ui5_js)
 - Вопросы, ответы, комментарии, а также темы и пишите в [чат подкаста в Telegram](https://t.me/proui5).
-- [Google Forms](https://forms.gle/frE28dU6r85rddNY6)
+- Будем рады обратной связи в [этой форме](https://forms.gle/frE28dU6r85rddNY6)
 
 ## Друзья
 
