@@ -28,6 +28,7 @@
 
 1. [UI5: как начать, FioriElements: плюсы, минусы, подводные камни](https://castbox.fm/episode/id3284055-id306467608)
 2. [Обновление UI5, Builder'ы](https://castbox.fm/episode/id3284055-id312981002)
+3. [Fiori vs GUI, Тестирование](./episodes/03.md)
 
 ## Обратная связь
 
