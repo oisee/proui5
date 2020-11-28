@@ -2,17 +2,18 @@
 
 Первый русскоязычный подкаст о UI5 и фронтенд-разработке в мире SAP.
 
-<p align="left">
-  <img src="logo.png" width="200" height="200" alt="Project Logo">
-</p>
+![Project Logo](/logo_200x200.png)
 
 ## Авторы
 
  - Илья Виноградов
  - Ефим Паршин
  - Сергей Никитин
+## Эпизоды
 
-
+1. [UI5: как начать, FioriElements: плюсы, минусы, подводные камни](./episodes/01.md)
+2. [Обновление UI5, Builder'ы](./episodes/02.md)
+3. [Fiori vs GUI, Тестирование](./episodes/03.md)
 ## Подкаст доступен на следующих площадках:
 
 - [Telegram](https://t.me/proui5_chan)
@@ -24,22 +25,17 @@
 - [~~Spotify~~](https://open.spotify.com/show/0MJMK5BLmCjNSAcnPy4GMS) - Подкасты Spotify недоступны в некоторых странах.
 - [RSS](http://rss.castbox.fm/everest/1bcc29f7ca90428c876e3d75500184c1.xml)
 
-## Эпизоды
-
-1. [UI5: как начать, FioriElements: плюсы, минусы, подводные камни](./episodes/01.md)
-2. [Обновление UI5, Builder'ы](./episodes/02.md)
-3. [Fiori vs GUI, Тестирование](./episodes/03.md)
 
 ## Обратная связь
 
 - [Группа UI5](https://t.me/ui5_js)
 - Вопросы, ответы, комментарии, а также темы и пишите в [чат подкаста в Telegram](https://t.me/proui5).
 - Будем рады обратной связи в [этой форме](https://forms.gle/frE28dU6r85rddNY6)
-
+## Гости
+[Инструкция для гостей подкаста](./guide.md)
 ## Друзья
 
 [Подкаст z-namespace](https://ilyakaznacheev.github.io/z-namespace/)
-[Инструкция для гостей подкаста](./guide.md)
 
 ## Лицензия
 
