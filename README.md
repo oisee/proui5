@@ -39,6 +39,7 @@
 ## Друзья
 
 [Подкаст z-namespace](https://ilyakaznacheev.github.io/z-namespace/)
+[Инструкция для гостей подкаста](./guide.md)
 
 ## Лицензия
 
