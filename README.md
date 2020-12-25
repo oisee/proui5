@@ -25,7 +25,7 @@
 - [Yandex](https://music.yandex.ru/album/12115451)
 - [PodFM](https://podfm.ru/podcasts/proui5/)
 - [~~Spotify~~](https://open.spotify.com/show/0MJMK5BLmCjNSAcnPy4GMS) - Подкасты Spotify недоступны в некоторых странах.
-- [RSS](http://rss.castbox.fm/everest/1bcc29f7ca90428c876e3d75500184c1.xml)
+- [RSS](http://rss.castbox.fm/everest/1bcc29f7ca90428c876e3d75500184c1.xml) - Универсальное решение для любых приложений для прослушивания подкастов: см. статью ["Как добавить RSS в своё подкастовое приложение"](https://medium.com/@joshmuccio/how-to-manually-add-a-rss-feed-to-your-podcast-app-on-desktop-ios-android-478d197a3770)
 
 ## Обратная связь
 
