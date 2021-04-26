@@ -17,6 +17,7 @@
 3. [Fiori vs GUI, Тестирование](./episodes/03.md)
 4. [SAP Screen Personas, Место UI5 в современном Frontend'е](./episodes/04.md)
 5. [Fiori Elements, в гостях Денис Чубаров](./episodes/05.md)
+6. [Прототипирование и документирование разработок на UI5](./episodes/06.md)
 
 ## Подкаст доступен на следующих площадках:
 
